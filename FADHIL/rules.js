@@ -26,24 +26,32 @@ return `
 
  *「 NOTE ${name} 」*
  
-➲ Este bot é um programa de código aberto (gratuito) escrito usando Javascript, você pode usar, copiar, modificar, combinar, publicar, distribuir, sublicenciar e.
+➲ Bot ini merupakan program open-source (gratis) yang ditulis menggunakan Javascript, kamu dapat menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, mendistribusikan, mensublisensikan, dan atau menjual salinan dengan tanpa menghapus author utama dari bot ini.
 
-➲Ao usar este bot, você concorda com os seguintes Termos e Condições:
- - O bot não armazena seus dados em nossos servidores.
- - O bot não é responsável pelos adesivos que você faz a partir 
+➲Dengan menggunakan bot ini maka anda setuju dengan Syarat dan Kondisi sebagai berikut:
+ - Bot tidak menyimpan data anda di server kami.
+ - Bot tidak bertanggung jawab atas sticker yang anda buat dari bot ini serta video, gambar maupun data lainnya yang anda dapatkan dari bot ini.
+ - Bot tidak boleh digunakan untuk layanan yang bertujuan/berkontribusi dalam: 
+     • seks / perdagangan manusia
+     • perjudian
+     • perilaku adiktif yang merugikan 
+     • kejahatan
+     • kekerasan (kecuali jika diperlukan untuk melindungi keselamatan publik)
+     • pembakaran hutan / penggundulan hutan
+     • ujaran kebencian atau diskriminasi berdasarkan usia, jenis kelamin, identitas gender, ras, seksualitas, agama, kebangsaan
 
-➲ Baileys Typescript / Javascript WhatsApp Web API: https://github.com/adiwajshing/baileys
+➲ Baileys Typescript/Javascript WhatsApp Web API: https://github.com/adiwajshing/baileys
 
-➲  *LOVE BOT Pausa 5 SEGUNDOS LET GA ERROR!!!!*
+➲  *KASIH BOT JEDA 5 DETIK BIAR GA ERROR!!!!*
 
-➲ \ `\` \ `Este bot não está completamente concluído \` \ `\`
-    \ `\` \ `Ainda em andamento \` \ `\`
-     \ `\` \ `Portanto, raramente é ativo, e \` \ `\`
- . . \ `` \ `\` Desculpe se há um menu de erro \ `\` \ `
+➲ \`\`\`Bot ini belum selesai sepenuhnya\`\`\`
+    \`\`\`Masih dalam proses pengerjaan\`\`\`
+     \`\`\`Jadi masih jarang aktif, dan\`\`\`
+ .    .\`\`\`Maaf Jika Ada Menu Yang Error\`\`\`
  
-➲ \`\`\`Se for antigo, por favor, repita o comando\`\`\`
+➲ \`\`\`Jika Lama Harap Ulangi Command\`\`\`
 
-➲ *Use o comando sem [ ]*
+➲ *Gunakan Command Tanpa [ ]*
 
 ➲ \`\`\`Dan Jika Mengalami Error\`\`\`
     \`\`\`Harap Lapor Owner Dengan Cara\`\`\`
