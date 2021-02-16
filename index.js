@@ -539,7 +539,7 @@ async function starts() {
 					/*client.sendMessage(from, rules(name, uptime, tanggal, jam, prefix), text, {quoted: mek })
 					}, 1200)
 					setTimeout( () => {*/
-					client.sendMessage(from, 'Terimakasih sudah menggunakan *Fadhil Bot* \n\n*SEBAGAI PENGGANTI DONASI YUK SUPORT*\nSubscribe https://youtube.com/c/FadhilGraphy \nFollow instagram https://instagram.com/ahmd.fdhl_', text, {quoted: mek})
+					client.sendMessage(from, 'Obrigado por usar *Tiago Bot* \n\n*SUPORT*\nSe inscrever https://youtube.com/channel/UCgi2j7agZVlP5We0ykOlq9g \nSeguir instagram https://instagram.com/tiago.lve', text, {quoted: mek})
 					}, 0)
     				break
 /*********PISAH MENU**********/
